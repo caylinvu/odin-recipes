@@ -1,2 +1,2 @@
 # odin-recipes
-Odin HTML project - recipe website
+This is my first TOP project in which I will be using HTML to create a simple recipe website. A list of recipes will be displayed on the index page with links to the specific recipe pages. This project will help me practice creating HTML web pages and including links to other pages while keeping an organized file system. 
